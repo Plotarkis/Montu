@@ -1,0 +1,2 @@
+# Montu
+A script designed to test a network’s security. Comes equipped with 2 scanning options, as well as 2 attack options. Depending on the type of scan done, the results may be inserted into an array so that the user may select a target more easily when moving on to the attack phase. All scan and attack results are stored in respective log folders, which are in turn stored in a Montu folder created upon the initial execution of this script.
